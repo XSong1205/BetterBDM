@@ -1,6 +1,5 @@
-# BetterBDM - Windows 桌面应用注入框架
+# BetterBDM - 波点音乐 Windows 客户端 功能扩展
 
-用于给 Flutter Windows 桌面程序（波点音乐）注入功能扩展的框架。
 
 ## 项目结构
 
@@ -16,19 +15,6 @@ BetterBDM/
 └── build.cmd              # 构建脚本
 ```
 
-## 快速开始
-
-### 1. 构建项目
-
-```batch
-build.cmd
-```
-
-### 2. 注入到目标程序
-
-```batch
-injector.exe --attach -t "波点音乐"
-```
 
 ### 3. 插件开发
 
