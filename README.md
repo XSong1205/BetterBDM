@@ -1,4 +1,4 @@
-# BetterBDM - 波点音乐 Windows 客户端 功能扩展
+# BetterBDM - 波点音乐 Windows 客户端 功能增强
 
 
 ## 项目结构
