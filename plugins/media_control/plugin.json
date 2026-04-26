@@ -1,0 +1,8 @@
+{
+  "name": "media_control",
+  "version": "1.0.0",
+  "author": "BetterBDM",
+  "description": "Hook media keys and control music playback",
+  "main": "plugin.dll",
+  "api_version": "1.0.0"
+}
